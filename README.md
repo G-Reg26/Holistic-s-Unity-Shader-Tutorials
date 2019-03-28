@@ -5,7 +5,7 @@ Unity shaders covering different aspects such as color, texture, lighting, etc.
 # Significant Take Aways
 - Shaderlab syntax and data types
 - Shader properties
-- Texture lighting
+- Texture mapping
 - Bump mapping
 - Rim lighting
 - Light models (Lambert, BlinnPhong)
