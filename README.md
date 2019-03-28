@@ -1,4 +1,4 @@
-# HolisticUnityShaderTutorials
+# Unity Shader Tutorials
 Unity shader tutorial projects presented by Holistic
 # About
 Unity shaders covering different aspects such as color, texture, lighting, etc. 
